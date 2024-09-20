@@ -1,3 +1,10 @@
+0,SansHead,NoEyes,,,,,,,
+0,SansText,Hey, I dodged it.,,,,,,,
+0,SansHead,BlueEye,,,,,,,
+0,SansText,AND I ALWAYS WILL.,,,,,,,
+0,SansHead,NoEyes,,,,,,,
+0,SansText,So just give up...,,,,,,,
+0,SansText,Before its too late.,,,,,,,
 0,CombatZoneResize,133,251,508,391,TLResume,
 0,HeartTeleport,320,376,,,,
 0,HeartMode,1,,,,,
@@ -12,6 +19,8 @@
 0.4,BoneV,128,286,100,0,300,1
 0.33333,BoneV,128,366,20,0,300,0
 0.4,BoneV,128,286,100,0,300,1
+0,SansHead,Wink,,,,,,,
+0,SansText,Look out!,,,,,,,
 0.9,GasterBlaster,1,0,0,189,176,45,0.333,0.26666
 0,GasterBlaster,1,640,480,449,436,225,0.333,0.26666
 0.33333,BoneV,128,366,20,0,300,0
